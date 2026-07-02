@@ -48,15 +48,15 @@ https://www.demoblaze.com
 ## Project Structure
 
 qa-bug-hunt-pack/
-├── README.md
-├── docs/
-│   ├── test-plan.md
-│   ├── test-scenarios.md
-│   ├── bug-reports.md
-│   └── test-summary-report.md
-├── tests/
-│   └── test-cases.xlsx
-└── screenshots/
+ - README.md
+ - docs/
+   -  test-plan.md
+   -  test-scenarios.md
+   -  bug-reports.md
+   -  test-summary-report.md
+ -  tests/
+   -  test-cases.xlsx
+ - screenshots/
 
 ## What I Learned
 
